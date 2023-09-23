@@ -1,0 +1,10 @@
+- Erros de sintaxe (SyntaxError, ParsingError)
+- Exceções (Exceptions)
+    - `NameError`
+    - `ValueError`
+    - `IndexError`
+    - `KeyError`
+    - `ZeroDivisionError`
+    - `Entre outros...`
+    - Erros de lógica
+
